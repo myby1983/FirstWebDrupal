@@ -1,0 +1,6 @@
+{
+  "name": "Drupal Website Builder",
+  "description": "An interactive digital experience representing a Drupal-powered news and media website, complete with Olivero front-end style, Gin admin dashboard, and simulated node & block layout management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
